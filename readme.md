@@ -41,7 +41,7 @@ Files DigiPot.* contains MAX5160 wrapper class providing functionality of switch
 Constructor:\
 ```csPin``` - Chip select / slave select\
 ```upDownPin``` - Up/down trigger pin (U/D)\
-```incPin``` - Increment pin (INC)
+```incPin``` - Increment pin (INC)\
 ```basePin``` - NPN Transistor base pin
 
 ```cpp
